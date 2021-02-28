@@ -1,3 +1,3 @@
 # LeetCode
-For LeetCode Submissions
+For LeetCode Submissions\
 LeetCode Profile: https://leetcode.com/LeumasMymik/
